@@ -1,2 +1,2 @@
 # MFA-website
-this is my first web designing project
+this is the website I have designed using Html, CSS and Js.
